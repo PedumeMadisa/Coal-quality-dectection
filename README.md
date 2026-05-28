@@ -1,0 +1,2 @@
+# Coal-quality-dectection
+coal
